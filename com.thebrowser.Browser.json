@@ -1,0 +1,11 @@
+{
+  "title": "Arc Browser Settings",
+  "description": "Arc Browser Settings",
+  "properties": {
+    "shouldAutomaticallyUpdateArc": {
+      "type": "boolean",
+      "description": "Turn Auto Updates on/off.",
+      "property_order": 5
+    }
+  }
+}
